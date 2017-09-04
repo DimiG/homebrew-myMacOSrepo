@@ -10,7 +10,7 @@ Formula description
 * `helloMyMAC.rb`: This script DO NOTHING and display `Hello World` message in BASH.<br>
 
 * `All Applications`:<br>
-   **Note :** To add this repository in your Homebrew [tap][brewtap] use: brew tap dimig/mymacosrepo<br>
+   **Note :** To add this repository in your Homebrew [tap][brewtap] use: `brew tap dimig/mymacosrepo`<br>
    ***Requires :*** [Homebrew][homebrew] installed.<br>
 
 * `To be continued...`
