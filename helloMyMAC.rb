@@ -1,6 +1,6 @@
 require 'formula'
 
-class HelloMyMAC < Formula
+class Hellomymac < Formula
   homepage ''
   head 'https://github.com/DimiG/myBASHscripts.git'
 
