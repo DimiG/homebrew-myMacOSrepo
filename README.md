@@ -7,7 +7,10 @@ Formula description
 
 ### myMacOSrepo folder
 
-* `helloMyMAC.rb`: This script DO NOTHING and display `Hello World` message in BASH.<br>
+* `video2prores.sh`: This script is a batch converter for video files.<br>
+   Usable for video editing systems ingest.
+
+* `helloMyMAC.sh`: This script DO NOTHING and display `Hello World` message in BASH.<br>
 
 * `All Applications`:<br>
    **Note :** To add this repository in your Homebrew [tap][brewtap] use: `brew tap dimig/mymacosrepo`<br>
