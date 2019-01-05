@@ -7,6 +7,9 @@ Formula description
 
 ### myMacOSrepo folder
 
+* `videotomp4`: This program tool help to automate the MP4 video converting.<br>
+   It uses [HandBrakeCLI][handbrake] for program to work.
+
 * `HandBrakeCLI`: Tool for converting video from nearly any format.<br>
    The open source video transcoder. [Command line version][handbrake].
 
