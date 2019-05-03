@@ -13,6 +13,9 @@ Formula description
 * `HandBrakeCLI`: Tool for converting video from nearly any format.<br>
    The open source video transcoder. [Command line version][handbrake].
 
+* `arduino-cli`: All-in-one solution that provides builder, boards/library manager, uploader, discovery<br>
+   and many other tools needed to use any [Arduino][arduino] compatible board and platforms by [command line][cli].
+
 * `video2prores.sh`: This script is a batch converter for video files.<br>
    Usable for video editing systems ingest.
 
@@ -31,3 +34,5 @@ These code may be COPYRIGHT PROTECTED by ©2019 DimiG
 [homebrew]:https://brew.sh
 [brewtap]:https://docs.brew.sh/brew-tap.html
 [handbrake]:https://handbrake.fr
+[arduino]:https://www.arduino.cc
+[cli]:https://en.wikipedia.org/wiki/Command-line_interface
