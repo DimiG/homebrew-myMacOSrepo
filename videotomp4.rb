@@ -5,7 +5,7 @@ class Videotomp4 < Formula
   sha256 "df1b2f6088b43f50b1f9719136db83d4a63efe24dfffc678b09a44c166ae6f2c"
   version "1.0.1"
 
-  depends_on "handbrakecli"
+  depends_on "handbrake"
 
   bottle :unneeded
 
